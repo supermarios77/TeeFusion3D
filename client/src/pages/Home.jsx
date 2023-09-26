@@ -23,7 +23,7 @@ const Home = () => {
 
           <motion.header {...slideAnimation("down")}>
             <img
-              src="../../public/threejs.png"
+              src="./threejs.png"
               alt="logo"
               className="w-8 h-8 object-contain"
             />
