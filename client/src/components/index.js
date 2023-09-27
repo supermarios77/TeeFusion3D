@@ -2,6 +2,7 @@ import CustomButton from "./CustomButton";
 import AIPicker from './AIPicker';
 import FilePicker from "./FilePicker";
 import ColorPicker from './ColorPicker';
-import Tab from "./Tab.jsx"
+import Tab from "./Tab.jsx";
+
 
 export { CustomButton, AIPicker, FilePicker, ColorPicker, Tab }
