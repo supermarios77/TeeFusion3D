@@ -16,7 +16,7 @@ const CustomButton = ({ type, customStyles, handleClick, title }) => {
       return {
         borderWidth: "1px",
         borderColor: snap.color,
-        color: snap.color
+        color: getContrastingColor(snap.color)
       }
     }
   }
